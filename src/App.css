@@ -1,0 +1,11 @@
+.App {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+  height: calc(100vh - 50px);
+  background-image: url(https://cdn.pixabay.com/photo/2014/09/24/16/28/bricks-459299__480.jpg);
+  background-size: cover;
+  background-repeat: no-repeat;
+  /* background-color: rgb(140, 161, 68); */
+}
