@@ -1,4 +1,4 @@
-#https://react-register-fg.netlify.app/
+https://react-register-fg.netlify.app/
 
 
 # Getting Started with Create React App
